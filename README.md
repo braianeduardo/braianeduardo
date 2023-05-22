@@ -7,3 +7,5 @@ meu nome é braian eduardo
 -utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
 ### Você entrar em contato comigo
+
+mariano.braian@escola.pr.gov.br   
